@@ -35,4 +35,4 @@ To get started with this repository, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/wrappler-wrapped.git
+   git clone https://github.com/jamwung/temporal-eda-rappler.git
